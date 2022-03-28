@@ -18,7 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varlopecar&show_icons=true&locale=en&layout=compact" alt="varlopecar" /></p>
 
---
+<div>
+  <p>--</p>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varlopecar&show_icons=true&locale=en" alt="varlopecar" /></p>
 
