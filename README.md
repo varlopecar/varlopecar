@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Vargas</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
 - 🔭 I’m currently working on [advice-generator-app](https://github.com/varlopecar/advice-generator-app)
 
@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varlopecar&show_icons=true&locale=en&layout=compact" alt="varlopecar" /></p>
 
-
+--
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varlopecar&show_icons=true&locale=en" alt="varlopecar" /></p>
 
