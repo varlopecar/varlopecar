@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE5xBDgTdo/1P37-1-nbU9_ovjLFZWKYw/watch?utm_content=DAE5xBDgTdo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE5xBDgTdo/1P37-1-nbU9_ovjLFZWKYw/watch?utm_content=DAE5xBDgTdo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FNPi69hMa4y-W9hc5PXQgz9Hq2QmvIAl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
