@@ -19,9 +19,3 @@
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="28px" width="28px" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://advice-generator-app-pink.vercel.app/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="28px" width="28px" />
-  </a>
-</p>
