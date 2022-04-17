@@ -5,11 +5,14 @@
 
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
+    <a href="https://twitter.com/varlopecar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varlopecar" height="30" width="40" />
+    </a>
     <a href="https://linkedin.com/in/varlopecar" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="varlopecar" height="28px" width="28px" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varlopecar" height="30" width="40" />
     </a>
     <a href="https://instagram.com/crls_v" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crls_v" height="28px" width="28px" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crls_v" height="30" width="40" />
     </a>
 </p>
 
