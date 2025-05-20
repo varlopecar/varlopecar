@@ -22,14 +22,14 @@
 ### 🔭 Projects
 
 - 🏋️‍♂️ **Forma** – AI Fitness App *(in progress)*  
-- 🌐 [Portfolio Website](https://portfolio-varlopecar.vercel.app) – My work, projects, and contact info  
+- 🌐 [Portfolio Website](https://varlopecar.me) – My work, projects, and contact info  
 
 ---
 
 ### 📈 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/varlopecar)
-- 🧠 [Portfolio](https://portfolio-varlopecar.vercel.app/)  
+- 🧠 [Portfolio](https://varlopecar.me/)  
 
 ---
 
